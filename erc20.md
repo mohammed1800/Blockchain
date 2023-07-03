@@ -17,7 +17,7 @@ Your metamask account should look something like this after mining the GoreliETH
 4. Choose blockchain Goreli(Testnet), then enter your Token name, Token symbol, Initial supply (take very large number), 18 Decimals.
 5. Select your desired options and click validate & compile, it will open metamask and ask for gas fee for deploying your token
 6. View your token name and address in dashboard
-![image]([https://github.com/AmarKumar1912/blockchain/assets/119916402/9e3262a2-7880-4d52-bdd2-3f753f269322](https://github.com/mohammed1800/docker_file/blob/main/20lab%20-%20Dashboard%20-%20MOB%20-%20Google%20Chrome%206_12_2023%201_24_34%20AM.png))
+![image](https://github.com/AmarKumar1912/blockchain/assets/119916402/9e3262a2-7880-4d52-bdd2-3f753f269322](https://github.com/mohammed1800/docker_file/blob/main/20lab%20-%20Dashboard%20-%20MOB%20-%20Google%20Chrome%206_12_2023%201_24_34%20AM.png))
 
 For me, I named my token as mobi token and kept its symbol MOB
 
