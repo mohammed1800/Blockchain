@@ -19,7 +19,7 @@ Your metamask account should look something like this after mining the GoreliETH
 6. View your token name and address in dashboard
 ![image](https://github.com/AmarKumar1912/blockchain/assets/119916402/9e3262a2-7880-4d52-bdd2-3f753f269322)
 
-For me, i named my token as Amar's token and kept its symbol as ABC
+For me, I named my token as mobi token and kept its symbol MOB
 
 ## Now, to see the transaction history of the token go to https://goerli.etherscan.io/ and paste your token address from 20 lab
 
